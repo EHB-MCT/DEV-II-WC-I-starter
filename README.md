@@ -1,6 +1,8 @@
 # DEV-II-WC-I-starter
 *english below*
 
+![visualisation of the output](./assets/output.gif)
+
 ## Opgave
 Je eerste opdracht is het maken van een interactieve slotmachine. Je zal ervoor moeten zorgen dat 3 random tekens gekozen worden bij het drukken op de knop, waarna je controlleerd of de drie tekens dezelfde zijn. Indien dit het geval is, geef je weer aan de gebruiker dat deze gewonnen is, indien niet geef je weer dat het spel verloren is.
 Probeer eerst conceptueel na te gaan welke functies met elkaar zullen communiceren en wat de beste manier is om aan de opdracht te beginnen.
