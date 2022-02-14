@@ -22,6 +22,7 @@ Je zal gebruik moeten maken van alle aangereikte functies.
 | Tekst indien verloren | "YOU LOSE 😭🥺" |
 
 
+# English
 
 ## Challenge
 Your first challenge is to create an interactive slot machine (one armed bandit). You will have to make sure three random symbols are chosen when the button is pressed, after which you check if the three symbols are the same.
