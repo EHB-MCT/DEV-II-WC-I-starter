@@ -14,11 +14,11 @@ function pullLever() {
     // TODO: show slots and win status
 }
 
-function showSlotStatus() {
+function showSlots() {
     // TODO: show the slot symbols in HTML
 }
 
-function showWinStatus() {
+function showGameResult() {
     // TODO: show a win or lose message in HTML
 }
 
